@@ -101,7 +101,6 @@ function TotalInvendtario(){
 
 }
 
-
 //Somatória de itens por departamento (você deverá retornar um objeto contendo o nome do departamento e o total de itens nele)
 
 function SomaItensDeparatamento(idDepto) {
@@ -197,5 +196,4 @@ function ProdutoMaisBarato(){
 
     console.log(`O produto mais barato é : ${NomePro} , Departamento do produto :${NomeDep}`);
 }
-
 
